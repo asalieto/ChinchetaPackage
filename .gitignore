@@ -10,13 +10,13 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-Solitaire/Library/
-Solitaire/Temp/
-Solitaire/Obj/
-Solitaire/Build/
-Solitaire/Builds/
-Solitaire/Logs/
-Solitaire/MemoryCaptures/
+ChinchetaPackageProject/Library/
+ChinchetaPackageProject/Temp/
+ChinchetaPackageProject/Obj/
+ChinchetaPackageProject/Build/
+ChinchetaPackageProject/Builds/
+ChinchetaPackageProject/Logs/
+ChinchetaPackageProject/MemoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
